@@ -1,0 +1,9 @@
+{
+  "name": "Gmail Theme",
+  "author": "Leuchtfeuer",
+  "authorUrl": "https://leuchtfeuer.com",
+  "builder": ["grapesjsbuilder"],
+  "features": [
+    "email"
+  ]
+}
